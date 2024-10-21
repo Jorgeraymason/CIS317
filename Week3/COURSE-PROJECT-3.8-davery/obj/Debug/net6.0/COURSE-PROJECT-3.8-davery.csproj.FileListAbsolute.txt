@@ -1,0 +1,15 @@
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.GeneratedMSBuildEditorConfig.editorconfig
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.AssemblyInfoInputs.cache
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.AssemblyInfo.cs
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.csproj.CoreCompileInputs.cache
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.sourcelink.json
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\bin\Debug\net6.0\COURSE-PROJECT-3.8-davery.exe
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\bin\Debug\net6.0\COURSE-PROJECT-3.8-davery.deps.json
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\bin\Debug\net6.0\COURSE-PROJECT-3.8-davery.runtimeconfig.json
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\bin\Debug\net6.0\COURSE-PROJECT-3.8-davery.dll
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\bin\Debug\net6.0\COURSE-PROJECT-3.8-davery.pdb
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.dll
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\refint\COURSE-PROJECT-3.8-davery.dll
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.pdb
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\COURSE-PROJECT-3.8-davery.genruntimeconfig.cache
+F:\ECPI-Code\CIS317\Week3\COURSE-PROJECT-3.8-davery\obj\Debug\net6.0\ref\COURSE-PROJECT-3.8-davery.dll
