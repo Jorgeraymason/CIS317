@@ -3,7 +3,8 @@
 * Date: 10/9/2024
 * Assignment: SDC320 Week 3 Project Implementation
 */
-
+//**LIBRARY INCLUSION FOR SQLite DATABASE
+using System.Data.SQLite
 class Program
 {
     static void Main()
