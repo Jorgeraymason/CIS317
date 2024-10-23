@@ -1,0 +1,15 @@
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\bin\Debug\net6.0\GP-4.3-davery.exe
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\bin\Debug\net6.0\GP-4.3-davery.deps.json
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\bin\Debug\net6.0\GP-4.3-davery.runtimeconfig.json
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\bin\Debug\net6.0\GP-4.3-davery.dll
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\bin\Debug\net6.0\GP-4.3-davery.pdb
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.GeneratedMSBuildEditorConfig.editorconfig
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.AssemblyInfoInputs.cache
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.AssemblyInfo.cs
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.csproj.CoreCompileInputs.cache
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.sourcelink.json
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.dll
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\refint\GP-4.3-davery.dll
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.pdb
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\GP-4.3-davery.genruntimeconfig.cache
+F:\ECPI-Code\CIS317\Week4\GP-4.3-davery\obj\Debug\net6.0\ref\GP-4.3-davery.dll

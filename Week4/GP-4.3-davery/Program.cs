@@ -11,7 +11,7 @@ public class BinaryFileDemo
     private const string FILE_NAME = "YourName.dat";
     public static void Main(string[] args)
     {
-        Console.WriteLine("\nYour Name, Week 4 Text Files GP\n");
+        Console.WriteLine("\nDevin Avery, Week 4 Text Files GP\n");
         Console.WriteLine(WriteToFile());
         Console.WriteLine(ReadFromFile());
     }
