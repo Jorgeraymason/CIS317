@@ -1,2 +1,1 @@
-# CIS317-Course-Project
-Yeah
+All assignments for CIS317 
