@@ -1,6 +1,6 @@
 /*******************************************************************
 * Name: Devin Avery
-* Date:
+* Date: 0/28/2024
 * Assignment: SDC320 Week 4 GP – Database Interactions
 *
 * Class to handle all interactions with the People table in the
