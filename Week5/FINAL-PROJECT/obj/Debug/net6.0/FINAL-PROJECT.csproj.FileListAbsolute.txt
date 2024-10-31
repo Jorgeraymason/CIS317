@@ -1,0 +1,15 @@
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.GeneratedMSBuildEditorConfig.editorconfig
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.AssemblyInfoInputs.cache
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.AssemblyInfo.cs
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.csproj.CoreCompileInputs.cache
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.sourcelink.json
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\bin\Debug\net6.0\FINAL-PROJECT.exe
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\bin\Debug\net6.0\FINAL-PROJECT.deps.json
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\bin\Debug\net6.0\FINAL-PROJECT.runtimeconfig.json
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\bin\Debug\net6.0\FINAL-PROJECT.dll
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\bin\Debug\net6.0\FINAL-PROJECT.pdb
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.dll
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\refint\FINAL-PROJECT.dll
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.pdb
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\FINAL-PROJECT.genruntimeconfig.cache
+F:\ECPI-Code\CIS317\Week5\FINAL-PROJECT\obj\Debug\net6.0\ref\FINAL-PROJECT.dll
